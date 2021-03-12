@@ -1,0 +1,19 @@
+.formed {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 20px rgba(78, 159, 230, 0.849) solid;
+  padding: 40px;
+  border-radius: 50px;
+  color: rgb(9, 37, 97);
+}
+.contact-form :nth-child(n) {
+  margin: 5px;
+  padding: 5px;
+}
+.btn {
+  border: 1px rgb(162, 162, 177) solid;
+  background-color: rgb(1, 72, 165);
+  color: white;
+  margin-left: 90px;
+  padding: 50px;
+}

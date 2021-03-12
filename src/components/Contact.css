@@ -1,0 +1,28 @@
+.contact {
+  background-color: rgb(219, 234, 248);
+  padding: 7px;
+  margin: 5px;
+  padding-left: 20px;
+  padding-top: 20px;
+  border-radius: 30px 30px 30px 30px;
+}
+
+.contact :hover {
+  color: rgba(112, 16, 83, 0.767);
+  font-weight: bolder;
+}
+
+h1 {
+  color: rgb(1, 72, 165);
+}
+
+.contactList {
+  margin: 10px;
+  border: 20px rgb(116, 182, 240) solid;
+  padding: 40px;
+  border-radius: 50px;
+}
+
+ContactView {
+  visibility: hidden;
+}
